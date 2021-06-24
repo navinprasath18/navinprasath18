@@ -10,6 +10,15 @@ I'm Navin Prasath!
 - <i>Currently:</i> Developer Associate at SAP - from 2019 
 - <i>Previously:</i> Intern at SAP - 2018 to 2019
 
+
+<h2> About Navin⚡:</h2>
+
+!!
+
+<h2>📫 How to reach me:</h2>
+
+<a href="mailto:navinprasath18@gmail.com">![navinprasath18@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/navinprasath18/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 <h2>👀 Stats</h2>
 
 <div>
@@ -22,10 +31,3 @@ I'm Navin Prasath!
   </p>
 </div>
 
-<h2> About Navin⚡:</h2>
-
-!!
-
-<h2>📫 How to reach me:</h2>
-
-<a href="mailto:navinprasath18@gmail.com">![navinprasath18@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/navinprasath18/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
