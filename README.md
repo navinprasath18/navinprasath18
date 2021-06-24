@@ -1,10 +1,8 @@
-![Navin Prasath Banner Image](./banner.png)
-<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
-<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
+![Navin Prasath Banner Image](./profilebanner.png)
 
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=navinprasath18)](https://github.com/navinprasath18) [![GitHub followers](https://img.shields.io/github/followers/navinprasath18.svg?style=social&label=Follow)](https://github.com/navinprasath18?tab=followers)
 
 I'm Navin Prasath! 
 - <i>Currently:</i> Developer Associate at SAP - from 2019 
