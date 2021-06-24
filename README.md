@@ -11,7 +11,7 @@ I'm Navin Prasath!
 
 <h2> About Navin⚡:</h2>
 
-!!
+Software Engineer with Masters from Vellore Institute of Technology. Currently working as Associate Developer in SAP Ariba.
 
 <h2>📫 How to reach me:</h2>
 
