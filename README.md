@@ -1,4 +1,3 @@
-![Navin Prasath Banner Image](./profilebanner.png)
 
 <h2>Hey! 👋</h2>
 
